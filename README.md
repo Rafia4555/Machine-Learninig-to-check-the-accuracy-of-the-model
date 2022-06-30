@@ -1,0 +1,2 @@
+# Machine-Learninig-to-check-the-accuracy-of-the-model
+i import the dependencies like  pandas as pd import numpy as np , sklearn.preprocessing import StandardScaler , sklearn.model_selection ,import train_test_split ,sklearn import svm , sklearn.metrics import accuracy_score etc.I load the dataset for training and testing .I trained the model using different algorithms and Outcome of the model .And the last find out the accuracy.
